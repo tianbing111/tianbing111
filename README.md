@@ -1,5 +1,5 @@
 ## Hi there 👋
-![:name](https://count.getloli.com/get/@:name?theme=rule34)
+![:name](https://count.getloli.com/get/@:name?theme=gelbooru)
 
 - 🔭 I’m currently working on Image privacy
 - 🌱 I’m currently learning [Tensorflow](https://www.tensorflow.org/)
