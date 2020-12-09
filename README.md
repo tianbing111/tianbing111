@@ -10,8 +10,17 @@
 
 ## ⚡ Technologies
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-<br/><br/>![Github Stats](https://github-readme-stats.vercel.app/api?username=tianbing111&count_private=true&show_icons=true&include_all_commits=true)
+<br/><br/>📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python     5 hrs 43 mins   ██████████████░░░░░░░░░░░   56.23 % 
+C#         1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+C++        59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JSON       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+HTML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+```
+<!--END_SECTION:waka-->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tianbing111&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianbing111&hide=TeX&layout=compact)
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
