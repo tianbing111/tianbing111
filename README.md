@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)
 ![:name](https://count.getloli.com/get/@:name?theme=gelbooru)
 
 - 🔭 I’m currently working on Image privacy
@@ -8,3 +10,4 @@
 - 📫 How to reach me: noaki_12
 
 
+https://raw.githubusercontent.com/YouEclipse/YouEclipse/master/gopher.gif
