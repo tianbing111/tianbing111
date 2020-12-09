@@ -7,3 +7,4 @@
 - 💬 Ask me about tianbing628@gmail.com
 - 📫 How to reach me: noaki_12
 
+![:name](https://count.getloli.com/get/@:name?theme=rule34)
