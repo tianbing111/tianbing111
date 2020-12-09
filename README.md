@@ -1,6 +1,4 @@
-## Hi there 👋
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)
+## Hi there 👋![visitors](https://visitor-badge.glitch.me/badge?page_id=tianbing111.tianbing111)
 ![:name](https://count.getloli.com/get/@:name?theme=gelbooru)
 
 - 🔭 I’m currently working on Image privacy
