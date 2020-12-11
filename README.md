@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">        个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程
+## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ![:tianbing111](https://count.getloli.com/get/@:tianbing111?theme=gelbooru)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
