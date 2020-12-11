@@ -28,8 +28,7 @@ HTML       19 mins         ▓░░░░░░░░░░░░░░░░�
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow noaki on Instagram"/>](https://twitter.com/tianbing3)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow noaki on Instagram" title="Follow noaki on Instagram"/>](https://www.instagram.com/tbmic/)
-
-<p align="center"><b>一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程</b>!</p>
-<p align="center">
 ## 个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程
+
+
 
