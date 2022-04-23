@@ -2,7 +2,7 @@
 ![:tianbing111](https://count.getloli.com/get/@:tianbing111?theme=gelbooru)
 <img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🔭 I’m currently working on Computational Storage
+- 🔭 I’m currently working on DPU
 - 🌱 I’m currently learning Linux Kernel
 - 🤔 I’m looking for help with “FPGA learner”
 - 💬 Ask me about tianbing628@gmail.com
