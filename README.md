@@ -1,6 +1,6 @@
-## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="10">
+## Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ![:tianbing111](https://count.getloli.com/get/@:tianbing111?theme=gelbooru)
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='150"'>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='50"'>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🔭 I’m currently working on DPU
 - 🌱 I’m currently learning Linux Kernel
