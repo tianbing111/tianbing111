@@ -14,21 +14,79 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianbing111&hide=TeX&layout=compact)
 <br/><br/>📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 15 Contributions in the Year 2022
+ > 
+> 📦 33.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-Python     5 hrs 43 mins   ██████████████░░░░░░░░░░░   56.23 % 
-C#         1 hr 37 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-C++        59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-JSON       56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-HTML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+🌞 Morning    13 commits     ██████░░░░░░░░░░░░░░░░░░░   25.49% 
+🌆 Daytime    7 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+🌃 Evening    8 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
+🌙 Night      23 commits     ███████████░░░░░░░░░░░░░░   45.1%
+
 ```
-<!--END_SECTION:waka-->
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
+📅 **I'm Most Productive on Thursday** 
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow noaki on Instagram"/>](https://twitter.com/tianbing3)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow noaki on Instagram" title="Follow noaki on Instagram"/>](https://www.instagram.com/tbmic/)
-## 个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程
+```text
+Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Thursday     37 commits     ██████████████████░░░░░░░   72.55% 
+Friday       6 commits      ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+Sunday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
-<!--START_SECTION:waka-->
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ████████████░░░░░░░░░░░░░   50.0% 
+HTML                     1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/tianbing111/tianbing111/main/charts/bar_graph.png) 
+
+
+ Last Updated on 26/10/2022 08:13:43 UTC
 <!--END_SECTION:waka-->
 
