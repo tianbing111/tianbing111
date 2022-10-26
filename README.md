@@ -29,5 +29,6 @@ HTML       19 mins         ▓░░░░░░░░░░░░░░░░�
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow noaki on Instagram" title="Follow noaki on Instagram"/>](https://www.instagram.com/tbmic/)
 ## 个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
