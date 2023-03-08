@@ -6,7 +6,3 @@
 - 🤔 I’m looking for help with “FPGA learner”
 - 💬 Ask me about tianbing628@gmail.com
 - 📫 How to reach me: noaki_12
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tianbing111&count_private=true&show_icons=true&include_all_commits=true)
-
